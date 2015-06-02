@@ -1,0 +1,33 @@
+{
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador":"#7CFF00",
+        "host": "#C3A700",
+        "cohost": "#00C4C7",
+        "manager": "#B10000",
+        "bouncer": "#2D5D00",
+        "rdj": "#ac76ff",
+        "subscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://giant.gfycat.com/RareJauntyKouprey.gif",
+        "playback": "",
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null
+    }
+}
