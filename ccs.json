@@ -19,7 +19,7 @@
         "user": null
     },
     "images": {
-        "background": "",
+        "background": "https://cdn.rawgit.com/tacocabob/ccs/master/edm_tacos.png",
         "playback": "https://cdn.rawgit.com/tacocabob/ccs/master/edm_taco_play_back.png",
         "admin": null,
         "ambassador": null,
